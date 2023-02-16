@@ -140,7 +140,7 @@ If your platform is different then you can find more info on: https://minikube.s
 
    Command: minikube stop
    
-   ![Screenshot from 2023-02-16 13-46-20](https://user-images.githubusercontent.com/122020679/219307577-8765b0c5-a8ac-4aed-9803-8b83e1449df7.png)
+   ![Screenshot from 2023-02-16 13-49-23](https://user-images.githubusercontent.com/122020679/219308733-bf308b65-33ff-40f9-8c6d-273a34118305.png)
 
 9. To delete cluster
  
